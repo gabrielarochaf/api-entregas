@@ -1,2 +1,4 @@
 node_modules
 docker-compose
+/src/generated/prisma
+.env
